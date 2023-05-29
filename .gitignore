@@ -3,7 +3,7 @@ node_modules/
 z*
 
 # .env files
-*.env
+.env
 
 # top level directory artifact
-artifacts/
+/artifacts/
